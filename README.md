@@ -1,3 +1,9 @@
+This is a fork of [OpenCover/opencover](https://github.com/OpenCover/opencover) with the intent of creating long-term release artifacts.
+
+[![Build status](https://img.shields.io/appveyor/ci/rgl/opencover.svg)](https://ci.appveyor.com/project/rgl/opencover)
+
+----
+
 OpenCover is a code coverage tool for .NET 2 and above (Windows OSs only - no MONO), with support for 32 and 64 processes and covers both branch and sequence points. OpenCover was started after attempts to make PartCover support 64-bit processes got just a [little too complicated](http://blog.many-monkeys.com/open_cover_first_beta_release/).
 
 The latest releases can be downloaded from [releases](https://github.com/opencover/opencover/releases) or from the OpenCover mirror site on [bitbucket](https://bitbucket.org/shaunwilde/opencover/downloads). **Alternatively** why not try the [nuget](http://nuget.org/packages/opencover) package (this is the most popular).
